@@ -1,15 +1,15 @@
 | No. | Problem                                   | Difficulty |      SQL     |
 | --: | ----------------------------------------- | :--------: | :-------------: |
-|   1 | Revising the Select Query I               |   Easy  |     Basic    |
-|   2 | Revising the Select Query II              |   Easy  |     Basic    |
-|   3 | Select All                                |   Easy  |     Basic    |
-|   4 | Select By ID                              |   Easy  |     Basic    |
-|   5 | Japanese Cities' Attributes               |   Easy  |     Basic    |
-|   6 | Japanese Cities' Names                    |   Easy  |     Basic    |
-|   7 | Weather Observation Station 1             |   Easy  |     Basic    |
-|   8 | Weather Observation Station 2             |   Easy  |     Basic    |
-|   9 | Weather Observation Station 3             |   Easy  |     Basic    |
-|  10 | Weather Observation Station 4             |   Easy  |     Basic    |
+|   1 | [Revising the Select Query I](Basic/1.%20Revising%20the%20Select%20Query%20I.md) |   Easy  |     Basic    |
+|   2 | [Revising the Select Query II](Basic/1.%20Revising%20the%20Select%20Query%20II.md) |   Easy  |     Basic    |
+|   3 | [Select All](Basic/3.%20Select%20All.md) |   Easy  |     Basic    |
+|   4 | [Select By ID](Basic/4.Select%20By%20ID.md) |   Easy  |     Basic    |
+|   5 | [Japanese Cities' Attributes](Basic/5.Japanese%20Cities'%20Attributes.md) |   Easy  |     Basic    |
+|   6 | [Japanese Cities' Names ](Basic/6.Japanese%20Cities'%20Names.md) |   Easy  |     Basic    |
+|   7 | [Weather Observation Station 1](Basic/7.Weather%20Observation%20Station%201.md) |   Easy  |     Basic    |
+|   8 | [Weather Observation Station 2](Basic/8.Weather%20Observation%20Station%202.md) |   Easy  |     Basic    |
+|   9 | [Weather Observation Station 3](Basic/9.Weather%20Observation%20Station%203.md) |   Easy  |     Basic    |
+|  10 | [Weather Observation Station 4](Basic/10.Weather%20Observation%20Station%204.md) |   Easy  |     Basic    |
 |  11 | Weather Observation Station 5             |   Easy  | Intermediate |
 |  12 | Weather Observation Station 6             |   Easy  |     Basic    |
 |  13 | Weather Observation Station 7             |   Easy  |     Basic    |
