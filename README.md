@@ -1,3 +1,21 @@
+## 🚀 HackerRank SQL Solutions
+
+Welcome! 👋
+
+This repository contains my solutions to SQL problems on HackerRank.
+
+Each solution includes:
+
+- 💡 Idea
+- 💻 SQL Solution
+- 🛠️ Code Explanation
+- 🔄 Alternative Approaches
+- ⏱️ Complexity Analysis
+
+---
+
+### 📂 Problems
+
 | No. | Problem                                   | Difficulty |      SQL     |
 | --: | ----------------------------------------- | :--------: | :-------------: |
 |   1 | [Revising the Select Query I](Basic/1.%20Revising%20the%20Select%20Query%20I.md) |   Easy  |     Basic    |
